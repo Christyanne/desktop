@@ -1,2 +1,2 @@
 // set test timeout to 10s
-jest.setTimeout(30000)
+jest.setTimeout(10000)
